@@ -1,0 +1,39 @@
+/*test
+font-family: 'Festive', cursive;
+font-family: 'Lato', sans-serif;
+
+*/
+
+body{
+	background-color: red; 
+	color: #003399;
+	font-family: 'Lato', sans-serif;
+}
+
+h1, h2{
+	font-family: 'Festive', cursive;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+p{
+	color: red;	
+}
+
+h3.orange{
+	color: orange;
+}
+a.nav{
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+	background-color: teal;
+	color: #fff;
+	text-decoration:none;
+}
+
+
+

@@ -1,0 +1,22 @@
+/*test*/
+
+body{
+	/* background-color: red; */
+	color: #003399;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+p{
+	color: red;	
+}
+
+h3.orange{
+	color: orange;
+}
+
+
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Comp Support extra Web Design</title>
+		<link rel="stylesheet" href="oranges.css">
+	</head>
+	<body>
+	 <h1>Extra Web D</h1>
+	 <h6>this is my small sub heading</h6>
+	 
+	 <p>paragraph here</p>
+	 <p class="orange">paragraph here with a class</p>
+	 
+	 <img src="pointers.png" alt="image of signpost">
+	 
+	 <h3 class="orange red"> heading of orange</h3>
+	
+	
+	</body>
+</html>
